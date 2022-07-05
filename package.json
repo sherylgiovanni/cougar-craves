@@ -1,0 +1,26 @@
+{
+  "name": "tania-technical-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byu-oit/tania-technical-challenge.git"
+  },
+  "author": "Sheryl Tania",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/byu-oit/tania-technical-challenge/issues"
+  },
+  "homepage": "https://github.com/byu-oit/tania-technical-challenge#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1125.0",
+    "axios": "^0.26.1",
+    "console-table-printer": "^2.11.0",
+    "inquirer": "^8.2.2",
+    "oracledb": "^5.3.0"
+  }
+}
